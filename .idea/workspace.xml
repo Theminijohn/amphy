@@ -4,7 +4,7 @@
     <list default="true" id="e56c10b2-53d0-4f01-b2bb-40ccd0095240" name="Default" comment="" />
     <ignored path="amphy.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="e56c10b2-53d0-4f01-b2bb-40ccd0095240" time="1378838426263" ignored="false" />
+    <file path="/Gemfile" changelist="e56c10b2-53d0-4f01-b2bb-40ccd0095240" time="1378838611227" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.04303511">
+            <state line="21" column="119" selection-start="414" selection-end="414" vertical-scroll-proportion="0.45186862">
               <folding />
             </state>
           </provider>
@@ -434,7 +434,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="20" selection-start="51" selection-end="51" vertical-scroll-proportion="0.04303511">
+        <state line="21" column="119" selection-start="414" selection-end="414" vertical-scroll-proportion="0.45186862">
           <folding />
         </state>
       </provider>
